@@ -9,7 +9,7 @@ standard library.
 
 import os
 
-TEXT = "A river stone has been smoothed by water for ten thousand years, and it is not finished yet. It rests in the shallows now, cool and ordinary, holding all that slow patience in the palm of your hand. You could set it down and walk away. The river would not mind. It has time."
+TEXT = "A river stone has been smoothed by water for ten thousand years, and it is not finished yet. It rests in the shallows, cool and ordinary — older than every city, every name, every road you know. You hold it in your palm. The river would not mind if you walked away. It has time."
 
 
 def main() -> None:
